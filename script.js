@@ -1,6 +1,6 @@
-const APILINK='https://api.themoviedb.org/3/discovery/movie?sort_by=popularity.desc&api_key=788a6a5c3922dc76dcaacb2cfd613e01&pages=1'
-const IMG_PATH='https://images.tmdb.org/t/p/w1280'
-const SEARCHAPI="https://api.themoviedb.org/3/discovery/movie?&api_key=788a6a5c3922dc76dcaacb2cfd613e01&query="
+const APILINK=''
+const IMG_PATH=''
+const SEARCHAPI=""
 
 const main=document.getElementById("section")
 const form=document.getElementById("form")
